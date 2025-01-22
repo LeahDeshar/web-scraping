@@ -4,5 +4,5 @@ Learning Focus: Extracting titles and links, handling pagination, and filtering 
 
 ### Steps:
 
-Scrape the headline, link, and publication date for each article.
-Save the data in a CSV or display it in a simple format.
+- [x] Scrape the headline, link, and publication date for each article.
+- [x] Save the data in a CSV or display it in a simple format.
